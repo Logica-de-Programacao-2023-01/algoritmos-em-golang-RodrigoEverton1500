@@ -48,7 +48,7 @@
     "node.js.selected.package.eslint": "(autodetect)"
   }
 }]]></component>
-  <component name="RunManager" selected="Go Build.go build algoritmos.sel3.go">
+  <component name="RunManager" selected="Go Build.go build algoritmos.sel4.go">
     <configuration name="go build algoritmos.sel2.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algoritmos-em-golang-RodrigoEverton1500" />
       <working_directory value="$PROJECT_DIR$" />
@@ -65,8 +65,17 @@
       <filePath value="$PROJECT_DIR$/algoritmos.sel3.go" />
       <method v="2" />
     </configuration>
+    <configuration name="go build algoritmos.sel4.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="algoritmos-em-golang-RodrigoEverton1500" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/algoritmos.sel4.go" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build algoritmos.sel4.go" />
         <item itemvalue="Go Build.go build algoritmos.sel3.go" />
         <item itemvalue="Go Build.go build algoritmos.sel2.go" />
       </list>
