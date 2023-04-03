@@ -14,6 +14,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Go File" />
+        <option value="Go Application" />
       </list>
     </option>
   </component>
@@ -34,13 +35,15 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "DefaultGoTemplateProperty": "Go File",
+    "DefaultGoTemplateProperty": "Go Application",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.go.formatter.settings.were.checked": "true",
     "RunOnceActivity.go.migrated.go.modules.settings": "true",
     "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
     "WebServerToolWindowFactoryState": "false",
+    "configurable..is.expanded": "false",
+    "configurable.GoLibrariesConfigurable.is.expanded": "true",
     "go.import.settings.migrated": "true",
     "go.sdk.automatically.set": "true",
     "last_opened_file_path": "C:/Users/rodrigo.everton/repos/algoritmos-em-golang-RodrigoEverton1500",
@@ -48,23 +51,7 @@
     "node.js.selected.package.eslint": "(autodetect)"
   }
 }]]></component>
-  <component name="RunManager" selected="Go Build.go build algoritmos.sel5.go">
-    <configuration name="go build algoritmos.sel2.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="algoritmos-em-golang-RodrigoEverton1500" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/algoritmos.sel2.go" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build algoritmos.sel3.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="algoritmos-em-golang-RodrigoEverton1500" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/algoritmos.sel3.go" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Go Build.go build algoritmos.sel8.go">
     <configuration name="go build algoritmos.sel4.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algoritmos-em-golang-RodrigoEverton1500" />
       <working_directory value="$PROJECT_DIR$" />
@@ -81,12 +68,37 @@
       <filePath value="$PROJECT_DIR$/algoritmos.sel5.go" />
       <method v="2" />
     </configuration>
+    <configuration name="go build algoritmos.sel6.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="algoritmos-em-golang-RodrigoEverton1500" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/algoritmos.sel6.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build algoritmos.sel7.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="algoritmos-em-golang-RodrigoEverton1500" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/algoritmos.sel7.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build algoritmos.sel8.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="algoritmos-em-golang-RodrigoEverton1500" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/algoritmos.sel8.go" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build algoritmos.sel8.go" />
+        <item itemvalue="Go Build.go build algoritmos.sel7.go" />
+        <item itemvalue="Go Build.go build algoritmos.sel6.go" />
         <item itemvalue="Go Build.go build algoritmos.sel5.go" />
         <item itemvalue="Go Build.go build algoritmos.sel4.go" />
-        <item itemvalue="Go Build.go build algoritmos.sel3.go" />
-        <item itemvalue="Go Build.go build algoritmos.sel2.go" />
       </list>
     </recent_temporary>
   </component>
