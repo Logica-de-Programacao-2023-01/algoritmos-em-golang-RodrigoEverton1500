@@ -51,15 +51,7 @@
     "node.js.selected.package.eslint": "(autodetect)"
   }
 }]]></component>
-  <component name="RunManager" selected="Go Build.go build algoritmos.sel8.go">
-    <configuration name="go build algoritmos.sel4.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="algoritmos-em-golang-RodrigoEverton1500" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/algoritmos.sel4.go" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Go Build.go build algoritmos.sel9.go">
     <configuration name="go build algoritmos.sel5.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algoritmos-em-golang-RodrigoEverton1500" />
       <working_directory value="$PROJECT_DIR$" />
@@ -92,13 +84,21 @@
       <filePath value="$PROJECT_DIR$/algoritmos.sel8.go" />
       <method v="2" />
     </configuration>
+    <configuration name="go build algoritmos.sel9.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="algoritmos-em-golang-RodrigoEverton1500" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/algoritmos.sel9.go" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build algoritmos.sel9.go" />
         <item itemvalue="Go Build.go build algoritmos.sel8.go" />
         <item itemvalue="Go Build.go build algoritmos.sel7.go" />
         <item itemvalue="Go Build.go build algoritmos.sel6.go" />
         <item itemvalue="Go Build.go build algoritmos.sel5.go" />
-        <item itemvalue="Go Build.go build algoritmos.sel4.go" />
       </list>
     </recent_temporary>
   </component>
