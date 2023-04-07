@@ -1,0 +1,13 @@
+package main
+import "fmt"
+func main() {
+
+	var b int
+	fmt.Println("Escreva um número")
+	fmt.Scan(&b)
+	fmt.Println()
+	for a := 1; a < 11; a++ {
+		fmt.Println(a*b)
+	}
+
+}
